@@ -1,0 +1,2 @@
+# NotesLC
+LeetCode Notes Photo
